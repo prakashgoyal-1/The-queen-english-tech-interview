@@ -1,3 +1,5 @@
+// Question - use useEffect as a component will unmount and make a button to toggle data i.e. timer value.
+
 import React,{useState, useEffect} from 'react'
 
 export default function Timer() {
